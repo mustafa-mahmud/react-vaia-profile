@@ -140,7 +140,7 @@ const App = () => {
                   <li>
                     <span style={{ fontSize: '15px' }}>Linkden</span>
                     <span style={{ fontSize: '15px' }}>
-                      Linkden link...........................
+                      linkedin.com/in/md-shaiful-alam-6b163b9b
                     </span>
                   </li>
                 </ul>
@@ -344,7 +344,10 @@ const App = () => {
                           marginRight: '0px',
                         }}
                       >
-                        <a href="https://www.upwork.com/o/profiles/users/_~01b9ee1080eaf92eba/">
+                        <a
+                          href="https://www.upwork.com/o/profiles/users/_~01b9ee1080eaf92eba/"
+                          target="_blank"
+                        >
                           <img
                             width="120"
                             height="60"
@@ -389,7 +392,10 @@ const App = () => {
                           marginRight: '0px',
                         }}
                       >
-                        <a href="https://www.fiverr.com/saif284">
+                        <a
+                          href="https://www.fiverr.com/saif284"
+                          target="_blank"
+                        >
                           <img
                             width="120"
                             height="60"
@@ -434,7 +440,10 @@ const App = () => {
                           marginRight: '0px',
                         }}
                       >
-                        <a href="https://www.freelancer.com/u/saif284">
+                        <a
+                          href="https://www.freelancer.com/u/saif284"
+                          target="_blank"
+                        >
                           <img
                             width="180"
                             height="60"
